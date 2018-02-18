@@ -1,1 +1,3 @@
-<? echo "Hello PHP-Openshift" ?>
+<?php
+    echo "Hello PHP-Openshift";
+?>
