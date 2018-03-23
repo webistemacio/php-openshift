@@ -1,5 +1,7 @@
 echo "fazendo o deploy de uma aplicacao em php"
 
+
+wget https://raw.githubusercontent.com/AlissonMMenezes/php-openshift/master/index.php -O /opt/app-root/src/index.php
 sleep 10
 
 
