@@ -1,0 +1,6 @@
+echo "fazendo o deploy de uma aplicacao em php"
+
+sleep 10
+
+
+echo "finalizando o arquivo assemble"
